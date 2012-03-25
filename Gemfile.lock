@@ -1,0 +1,14 @@
+PATH
+  remote: .
+  specs:
+    deployer_files (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  deployer_files!

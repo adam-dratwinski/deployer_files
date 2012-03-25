@@ -1,0 +1,12 @@
+Description:
+    Will generate files needed for deployment
+
+Example:
+    rails generate deployer:files
+
+    This will create:
+        Capfile
+        deploy.rb
+        nginx.conf
+        unicorn.rb
+        unicorn_init.sh
