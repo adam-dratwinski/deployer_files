@@ -1,7 +1,7 @@
-# DeployerGenerators
+# Deployer Files
 
-    Useful generators for creating files needed to deployment in way Ryan Bytes shows in his Railscasts.
-    Created for my enviroment, but maybe useful if you planning to write something similar :-)
+    Useful generator for creating files needed to application deployment in way Ryan Bytes shows in his Railscasts.
+    Created for my enviroment, but may be useful if you goint to write something similar :-)
 
 ## Installation
 
