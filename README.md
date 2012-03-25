@@ -7,7 +7,7 @@
 
 Add this line to your application's Gemfile:
 
-    gem 'deployer_generators'
+    gem 'deployer_files'
 
 And then execute:
 
@@ -15,7 +15,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install deployer_generators
+    $ gem install deployer_files
 
 ## Usage
 
